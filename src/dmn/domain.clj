@@ -274,7 +274,7 @@
    :summaryList {:Summary [{:label
                             :value
                             :orderNo}]}
-   :summaryFlag [{key value}]
+p   :summaryFlag [{key value}]
    })
 
 (s/def DMApplication
